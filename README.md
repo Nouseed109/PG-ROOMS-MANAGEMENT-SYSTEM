@@ -1,0 +1,1 @@
+The PG Rooms Management System is a comprehensive software solution designed to streamline and enhance the management of Paying Guest accommodations. This system allows owners to add, edit, and manage PG room details, while users can search and apply for rooms.
