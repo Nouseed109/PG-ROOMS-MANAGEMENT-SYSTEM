@@ -8,11 +8,6 @@ A web-based platform designed for paying-guest (PG) accommodation management —
 - [About](#about)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
-- [Installation & Setup](#installation-setup)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
